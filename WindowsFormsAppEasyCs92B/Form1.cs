@@ -30,7 +30,7 @@ namespace WindowsFormsAppEasyCs92B
         
         public Form1()
         {
-            InitializeComponent();
+            // InitializeComponent();
             this.Text = "Receive Apple";
             this.ClientSize = new Size(600, 300);
             this.DoubleBuffered = true;
@@ -180,16 +180,16 @@ namespace WindowsFormsAppEasyCs92B
         }
     }
         
-    // class Ball
-    // {
-    //     public Color Color;
-    //     public Point Point;
-    //     public Image Image;
-    // }
-    //
-    // class Cart
-    // {
-    //     public Image Image;
-    //     public Point Point;
-    // }
+    class Ball
+    {
+        public Color Color;
+        public Point Point;
+        public Image Image;
+    }
+    
+    class Cart
+    {
+        public Image Image;
+        public Point Point;
+    }
 }

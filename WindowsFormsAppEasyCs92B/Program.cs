@@ -16,8 +16,8 @@ namespace WindowsFormsAppEasyCs92B
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            // Application.Run(new Form1());
-            Application.Run(new Form1B());
+            Application.Run(new Form1());
+            // Application.Run(new Form1B());
         }
     }
 }

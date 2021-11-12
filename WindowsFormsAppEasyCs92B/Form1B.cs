@@ -150,14 +150,14 @@ namespace WindowsFormsAppEasyCs92B
         }
     }
 
-    class Ball
-    {
-        public Image Image;
-        public Point Point;
-    }
-    class Cart
-    {
-        public Image Image;
-        public Point Point;
-    }
+    // class Ball
+    // {
+    //     public Image Image;
+    //     public Point Point;
+    // }
+    // class Cart
+    // {
+    //     public Image Image;
+    //     public Point Point;
+    // }
 }
