@@ -54,6 +54,7 @@ namespace WindowsFormsAppEasyCs92B
             dy = 4;
     
             ct = new Cart();
+            
             Point ctp = new Point(this.ClientSize.Width / 2, this.ClientSize.Height - 80);
             Image cim = Image.FromFile(imgPath + "cart.png");
     
@@ -157,7 +158,7 @@ namespace WindowsFormsAppEasyCs92B
         {
             Point ctp = ct.Point;
             Image cim = ct.Image;
-    
+            
             if (e.KeyCode == Keys.Right)
             {
                 ctp.X += 2;
@@ -173,10 +174,10 @@ namespace WindowsFormsAppEasyCs92B
                 {
                     ctp.X = 0;
                 }
-    
-                ct.Point = ctp;
-                this.Invalidate();
-            }
+            } // < The cause of the error that the car did not run to right. This was nothing.
+            ct.Point = ctp;
+            this.Invalidate();
+            
         }
     }
         

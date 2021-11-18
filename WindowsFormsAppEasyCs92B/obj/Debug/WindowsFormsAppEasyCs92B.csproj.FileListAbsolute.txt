@@ -7,3 +7,4 @@ C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs92B\WindowsFormsAppEasyCs92B\ob
 C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs92B\WindowsFormsAppEasyCs92B\obj\Debug\WindowsFormsAppEasyCs92B.csproj.CoreCompileInputs.cache
 C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs92B\WindowsFormsAppEasyCs92B\obj\Debug\WindowsFormsAppEasyCs92B.exe
 C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs92B\WindowsFormsAppEasyCs92B\obj\Debug\WindowsFormsAppEasyCs92B.pdb
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs92B\WindowsFormsAppEasyCs92B\obj\Debug\WindowsFormsAppEasyCs92B.csproj.SuggestedBindingRedirects.cache
